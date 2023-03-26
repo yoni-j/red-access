@@ -1,5 +1,3 @@
-# How to use The Configuration service API
-
 ## Setup
 - Install Docker - https://docs.docker.com/get-docker/
 - Install curl - https://everything.curl.dev/get
